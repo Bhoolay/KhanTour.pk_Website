@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.home_page_hadding{
+    background-color: rgb(196, 196, 196);
+    padding-left: 9px;
+    padding-bottom: 4px;
+    color: rgb(0, 120, 175);
+    border-color: rgb(155, 155, 155);
+    border-radius: 10px;
+}
+.pk{
+    color: rgb(15, 145, 15);
+}
+.home_image{
+    display: flex;
+    justify-content: center;
+}
+/* .home_image{
+    display: block;
+    margin: 0 auto;
+} */
+.search{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+.search_bar{
+    width: 600px;
+    height: 50px;
+    border-color: black;
+    border-radius: 20px;
+}
+.Turkey{
+    border-radius: 15px;
+}
+.Singapore{
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+}
+.Trips{
+    background-color: rgb(228, 250, 255);
+}
